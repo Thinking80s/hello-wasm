@@ -5,8 +5,7 @@ edition = "2021"
 authors = ["thinking80s <7405321@gmail.com>"]
 description = "A sample project with wasm-pack"
 license = "MIT/Apache-2.0"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+repository = "https://github.com/Thinking80s/hello-wasm"
 
 [lib]
 crate-type = ["cdylib"]
